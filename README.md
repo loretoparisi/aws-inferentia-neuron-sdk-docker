@@ -1,5 +1,5 @@
 # aws-inferentia-neuron-sdk-docker
-Dockerfile and helper for AWS Inferentia Neuron SDK with utilities for `Tensorflow` and `Pytorch` models compilation.
+Dockerfile and helper for AWS Inferentia [Neuron SDK](https://github.com/aws/aws-neuron-sdk) with utilities for `Tensorflow` and `Pytorch` models compilation.
 
 ## Build
 We build the Docker container
